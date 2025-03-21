@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5pS8sJZp+U8=",
+  "success": true,
+  "projectFilePath": "D:\\Course\\AspNetCoreWebApi\\Applications\\basics\\hello_world_cli\\hello_world_cli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Furkan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\Furkan\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

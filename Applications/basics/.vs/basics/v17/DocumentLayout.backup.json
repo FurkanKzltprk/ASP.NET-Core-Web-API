@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Course\\AspNetCoreWebApi\\Applications\\basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6B7F74-8765-4A73-9EAB-F596A8877433}|HelloWebAPi\\HelloWebAPi.csproj|d:\\course\\aspnetcorewebapi\\applications\\basics\\hellowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6B7F74-8765-4A73-9EAB-F596A8877433}|HelloWebAPi\\HelloWebAPi.csproj|solutionrelative:hellowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6B7F74-8765-4A73-9EAB-F596A8877433}|HelloWebAPi\\HelloWebAPi.csproj|d:\\course\\aspnetcorewebapi\\applications\\basics\\hellowebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA6B7F74-8765-4A73-9EAB-F596A8877433}|HelloWebAPi\\HelloWebAPi.csproj|solutionrelative:hellowebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6B7F74-8765-4A73-9EAB-F596A8877433}|HelloWebAPi\\HelloWebAPi.csproj|d:\\course\\aspnetcorewebapi\\applications\\basics\\hellowebapi\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6B7F74-8765-4A73-9EAB-F596A8877433}|HelloWebAPi\\HelloWebAPi.csproj|solutionrelative:hellowebapi\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6B7F74-8765-4A73-9EAB-F596A8877433}|HelloWebAPi\\HelloWebAPi.csproj|d:\\course\\aspnetcorewebapi\\applications\\basics\\hellowebapi\\controllers\\homecontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6B7F74-8765-4A73-9EAB-F596A8877433}|HelloWebAPi\\HelloWebAPi.csproj|solutionrelative:hellowebapi\\controllers\\homecontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Course\\AspNetCoreWebApi\\Applications\\basics\\HelloWebAPi\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWebAPi\\Program.cs",
+              "ToolTip": "D:\\Course\\AspNetCoreWebApi\\Applications\\basics\\HelloWebAPi\\Program.cs",
+              "RelativeToolTip": "HelloWebAPi\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:12:29.086Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Course\\AspNetCoreWebApi\\Applications\\basics\\HelloWebAPi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HelloWebAPi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Course\\AspNetCoreWebApi\\Applications\\basics\\HelloWebAPi\\Properties\\launchSettings.json*",
+              "RelativeToolTip": "HelloWebAPi\\Properties\\launchSettings.json*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T10:32:49.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "D:\\Course\\AspNetCoreWebApi\\Applications\\basics\\HelloWebAPi\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "HelloWebAPi\\Models\\ResponseModel.cs",
+              "ToolTip": "D:\\Course\\AspNetCoreWebApi\\Applications\\basics\\HelloWebAPi\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "HelloWebAPi\\Models\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:30:30.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeControllers.cs",
+              "DocumentMoniker": "D:\\Course\\AspNetCoreWebApi\\Applications\\basics\\HelloWebAPi\\Controllers\\HomeControllers.cs",
+              "RelativeDocumentMoniker": "HelloWebAPi\\Controllers\\HomeControllers.cs",
+              "ToolTip": "D:\\Course\\AspNetCoreWebApi\\Applications\\basics\\HelloWebAPi\\Controllers\\HomeControllers.cs",
+              "RelativeToolTip": "HelloWebAPi\\Controllers\\HomeControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:24:21.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "nIByK4YCcbbMAobpDh2i6IFgyKMDfLWIWLfkV1E/oVs=",
+  "Source": "hello_world_cli",
+  "BasePath": "_content/hello_world_cli",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

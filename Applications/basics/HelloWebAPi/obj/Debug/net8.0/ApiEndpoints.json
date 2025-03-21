@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "HelloWebAPi.Controllers.HomeControllers",
+    "Method": "GetMessage",
+    "RelativePath": "home",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
