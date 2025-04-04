@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Course\\AspNetCoreWebApi\\Applications\\bookDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{823115F8-B57D-4F56-A219-3806157F2914}|bookDemo\\bookDemo.csproj|d:\\course\\aspnetcorewebapi\\applications\\bookdemo\\bookdemo\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823115F8-B57D-4F56-A219-3806157F2914}|bookDemo\\bookDemo.csproj|solutionrelative:bookdemo\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823115F8-B57D-4F56-A219-3806157F2914}|bookDemo\\bookDemo.csproj|d:\\course\\aspnetcorewebapi\\applications\\bookdemo\\bookdemo\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823115F8-B57D-4F56-A219-3806157F2914}|bookDemo\\bookDemo.csproj|solutionrelative:bookdemo\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823115F8-B57D-4F56-A219-3806157F2914}|bookDemo\\bookDemo.csproj|d:\\course\\aspnetcorewebapi\\applications\\bookdemo\\bookdemo\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823115F8-B57D-4F56-A219-3806157F2914}|bookDemo\\bookDemo.csproj|solutionrelative:bookdemo\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823115F8-B57D-4F56-A219-3806157F2914}|bookDemo\\bookDemo.csproj|d:\\course\\aspnetcorewebapi\\applications\\bookdemo\\bookdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823115F8-B57D-4F56-A219-3806157F2914}|bookDemo\\bookDemo.csproj|solutionrelative:bookdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\Course\\AspNetCoreWebApi\\Applications\\bookDemo\\bookDemo\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "bookDemo\\Data\\ApplicationContext.cs",
+              "ToolTip": "D:\\Course\\AspNetCoreWebApi\\Applications\\bookDemo\\bookDemo\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "bookDemo\\Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T19:41:32.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Course\\AspNetCoreWebApi\\Applications\\bookDemo\\bookDemo\\Program.cs",
+              "RelativeDocumentMoniker": "bookDemo\\Program.cs",
+              "ToolTip": "D:\\Course\\AspNetCoreWebApi\\Applications\\bookDemo\\bookDemo\\Program.cs",
+              "RelativeToolTip": "bookDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T19:36:12.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Course\\AspNetCoreWebApi\\Applications\\bookDemo\\bookDemo\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "bookDemo\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Course\\AspNetCoreWebApi\\Applications\\bookDemo\\bookDemo\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "bookDemo\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAASwF8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T19:36:07.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Course\\AspNetCoreWebApi\\Applications\\bookDemo\\bookDemo\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "bookDemo\\Models\\Book.cs",
+              "ToolTip": "D:\\Course\\AspNetCoreWebApi\\Applications\\bookDemo\\bookDemo\\Models\\Book.cs",
+              "RelativeToolTip": "bookDemo\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T19:34:42.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
