@@ -34,3 +34,7 @@ D:\Course\AspNetCoreWebApi\Applications\bookDemo\bookDemo\obj\Debug\net8.0\refin
 D:\Course\AspNetCoreWebApi\Applications\bookDemo\bookDemo\obj\Debug\net8.0\bookDemo.pdb
 D:\Course\AspNetCoreWebApi\Applications\bookDemo\bookDemo\obj\Debug\net8.0\bookDemo.genruntimeconfig.cache
 D:\Course\AspNetCoreWebApi\Applications\bookDemo\bookDemo\obj\Debug\net8.0\ref\bookDemo.dll
+D:\Course\AspNetCoreWebApi\Applications\bookDemo\bookDemo\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Course\AspNetCoreWebApi\Applications\bookDemo\bookDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Course\AspNetCoreWebApi\Applications\bookDemo\bookDemo\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Course\AspNetCoreWebApi\Applications\bookDemo\bookDemo\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
